@@ -11,5 +11,7 @@ body {
 }
 
 #col1 {
-    width:600px;
+    width:500px;
+    position: relative ;
+    right:-100px;
 }
