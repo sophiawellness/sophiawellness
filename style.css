@@ -1,6 +1,7 @@
 body {
     font-family: 'Poiret One', cursive;
     font-size: 25px;
+    color:lightgreen;
 }
 
 #heading1 {
@@ -14,4 +15,17 @@ body {
     width:500px;
     position: relative ;
     right:-100px;
+}
+
+#photos {
+    background-color:lavender;
+    position:relative;
+    left:100px;
+}
+
+#contactus {
+background-color:lavender;
+font-size:25px;
+position: relative;
+left:100px;
 }
